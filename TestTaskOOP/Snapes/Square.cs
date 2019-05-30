@@ -10,7 +10,7 @@ namespace TestTaskOOP
     {
        public readonly float side;
 
-        public Square(float side, string color):base(color)
+        public Square(string color,float side):base(color)
         {
             this.side = side;
         }
