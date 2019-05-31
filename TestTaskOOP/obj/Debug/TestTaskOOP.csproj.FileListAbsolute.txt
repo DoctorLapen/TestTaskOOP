@@ -1,0 +1,7 @@
+E:\testTaskOop\TestTaskOOP\TestTaskOOP\bin\Debug\TestTaskOOP.exe.config
+E:\testTaskOop\TestTaskOOP\TestTaskOOP\bin\Debug\TestTaskOOP.exe
+E:\testTaskOop\TestTaskOOP\TestTaskOOP\bin\Debug\TestTaskOOP.pdb
+E:\testTaskOop\TestTaskOOP\TestTaskOOP\obj\Debug\TestTaskOOP.csprojAssemblyReference.cache
+E:\testTaskOop\TestTaskOOP\TestTaskOOP\obj\Debug\TestTaskOOP.csproj.CoreCompileInputs.cache
+E:\testTaskOop\TestTaskOOP\TestTaskOOP\obj\Debug\TestTaskOOP.exe
+E:\testTaskOop\TestTaskOOP\TestTaskOOP\obj\Debug\TestTaskOOP.pdb

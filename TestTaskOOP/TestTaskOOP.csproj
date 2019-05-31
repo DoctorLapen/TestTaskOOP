@@ -43,14 +43,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="RandomSnapeGenerator.cs" />
-    <Compile Include="Snapes\Circle.cs" />
+    <Compile Include="RandomShapeSetGenerator.cs" />
+    <Compile Include="Shapes\Circle.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Snapes\Trapezium .cs" />
-    <Compile Include="Snapes\Triangle .cs" />
-    <Compile Include="Snapes\Snape.cs" />
-    <Compile Include="Snapes\Square.cs" />
+    <Compile Include="Shapes\Trapezium .cs" />
+    <Compile Include="Shapes\Triangle .cs" />
+    <Compile Include="Shapes\Shape.cs" />
+    <Compile Include="Shapes\Square.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

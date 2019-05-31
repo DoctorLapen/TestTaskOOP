@@ -10,6 +10,13 @@ namespace TestTaskOOP
     {
         static void Main(string[] args)
         {
+            RandomShapeSetGenerator generator = new RandomShapeSetGenerator();
+
+            generator.genShapeSet();
+
+            generator.showShapeSet();
+
+            Console.ReadKey();
         }
     }
 }
