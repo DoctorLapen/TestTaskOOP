@@ -18,10 +18,12 @@ namespace TestTaskOOP
 
         public readonly string color;
 
+        
+
         /* конструктор определен в абстрактном классе
          * для того что бы каждый раз вручную не инициализировать поле color в класcах потомках
          * а передавать значение через base
-         */ 
+         */
         public Shape(string color) {
             this.color = color;
         }
@@ -32,5 +34,9 @@ namespace TestTaskOOP
       //Абстрактный метод getArea возвращает площадь геометрической фигуры.
        
         public abstract float getArea();
+
+       
+
+        
     }
 }

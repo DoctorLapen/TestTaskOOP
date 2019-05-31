@@ -27,7 +27,7 @@ namespace TestTaskOOP
             
             int quantityOfShapes = random.Next(1,21);
 
-            Console.WriteLine(quantityOfShapes);
+           
 
             for (int i = 0; i < quantityOfShapes; i++)
             {
@@ -49,7 +49,7 @@ namespace TestTaskOOP
            
             int value = random.Next(1,5);
 
-            Console.WriteLine("value: " + value);
+         
 
             if (value == 1) return new Square("black",5);
 
